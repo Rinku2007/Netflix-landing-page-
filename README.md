@@ -40,33 +40,28 @@ This project replicates the look & feel of Netflix’s homepage with tab-based n
 
 ---
 
-## 📂 Folder Structure  
+## 📂 Folder Structure
 
-📦 netflix-clone
+```
+netflix-clone/
+│── index.html
+│── README.md
 │
-├── index.html
-├── README.md
-│
-├── css
+│── css/
 │   └── style.css
 │
-├── js
+│── js/
 │   └── app.js
 │
-└── img
-    ├── logo.png
-    ├── netflix-favicon.png
-    ├── background.jpg
-    ├── tab-1.png
-    ├── tab-2-1.png
-    ├── tab-2-2.png
-    └── tab-2-3.png
-
-
-
-
-
----
+│── img/
+│   ├── logo.png
+│   ├── netflix-favicon.png
+│   ├── background.jpg
+│   ├── tab-1.png
+│   ├── tab-2-1.png
+│   ├── tab-2-2.png
+│   └── tab-2-3.png
+```
 
 ## ⚙️ How It Works  
 
