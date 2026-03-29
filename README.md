@@ -5,11 +5,6 @@ This project replicates the look & feel of Netflix’s homepage with tab-based n
 
 ---
 
-## 🚀 Live Preview  
-👉 *(Deploy it on Render / GitHub Pages and add link here)*  
-
----
-
 ## 🖼️ Project Preview  
 ✨ Clean UI  
 ✨ Netflix-style layout  
