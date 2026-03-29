@@ -62,6 +62,37 @@ netflix-clone/
 │   ├── tab-2-2.png
 │   └── tab-2-3.png
 ```
+---
+## 📥 How to Clone & Run Locally
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/netflix-clone.git
+```
+
+### 2️⃣ Navigate to Project Folder
+
+```bash
+cd netflix-clone
+```
+
+### 3️⃣ Open in Browser
+
+Simply open `index.html` in your browser
+
+OR
+
+Use Live Server (Recommended):
+
+* Install Live Server extension in VS Code
+* Right click on `index.html`
+* Click **"Open with Live Server"**
+
+### 4️⃣ You're Done 🎉
+
+Now you can explore the Netflix landing page clone locally.
+
 
 ## ⚙️ How It Works  
 
